@@ -1,16 +1,23 @@
-### Hi there 👋
+## Personal Information
+- **Name**: Kunj Madhavani
+- **Major**: Computer Science
 
-<!--
-**kunj-09/kunj-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact Information
+- **Email**: kunj.mm@gmail.com
+- **Phone**: +91  9892841898
+- **LinkedIn**: [linkedin.com/in/kunjmadhavani](https://www.linkedin.com/in/kunjmadhavani)
 
-Here are some ideas to get you started:
+## Education
+- **Mumbai University**, B.Tech. CSE(ICB), Dwarkadas J. Sanghvi College of Engineering (2022 -  2026)
+- **Mother Marry Jr. College**,  12th Grade (2020 -  2022)
+- **Don Bosco High School**,  10th Grade (2010 -  2020)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: C, C++, Java, Python, HTML, CSS, JS
+- Frameworks: React.js, Bootstrap
+- Designing Softwares: Canva
+- Database Languages: MySQL
+- 
+
+## Work Experience
+- **E-Commerce**: Product listing (Oct  2022 - Dec  2022)
