@@ -6,6 +6,7 @@
 - **Email**: kunj.mm@gmail.com
 - **Phone**: +91  9892841898
 - **LinkedIn**: [linkedin.com/in/kunjmadhavani](https://www.linkedin.com/in/kunjmadhavani)
+   <img align="right" margin-top="50px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTl0ZDZiMzFpc2prbXZ2Mm45b2N0MXR0MTRtN3M1bnM5Yjc1MGVnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="300px">
 
 ## Education
 - **Mumbai University**, B.Tech. CSE(ICB), Dwarkadas J. Sanghvi College of Engineering (2022 -  2026)
