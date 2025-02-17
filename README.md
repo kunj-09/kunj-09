@@ -14,11 +14,10 @@
 - **Don Bosco High School**,  10th Grade (2010 -  2020)
 
 ## Skills
-- Programming Languages: C, C++, Java, Python, HTML, CSS, JS
-- Frameworks: React.js, Bootstrap
-- Designing Softwares: Canva
-- Database Languages: MySQL
-- 
+- Programming Languages: Python, Java, C, C++, JavaScript, TypeScript, SQL,
+- Frontend Technologies : ReactJS, NextJS, Redux, Bootstrap, HTML, CSS
+- Backend Technologies : NodeJS ,ExpressJS, PostgreSQL, Firebase
+- Tools : Git, GitHub, Postman
+- Cloud : AWS
 
-## Work Experience
-- **E-Commerce**: Product listing (Oct  2022 - Dec  2022)
+
